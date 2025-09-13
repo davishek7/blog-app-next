@@ -24,7 +24,7 @@ function Footer() {
                             </a>
                         </li>
                         <li className="list-inline-item">
-                            <a href="https://davishek7.github.io/" target="_blank">
+                            <a href="https://avishekresume.netlify.app/" target="_blank">
                                 <span className="fa-stack fa-lg">
                                     <i className="fas fa-circle fa-stack-2x"></i>
                                     <i className="fa-solid fa-globe fa-stack-1x fa-inverse"></i>
